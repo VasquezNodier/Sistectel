@@ -36,3 +36,23 @@ Route::get('projects', function () {
 Route::get('contact', function () {
     return view('web.contact');
 });
+
+Route::get('feature', function () {
+    return view('pages.feature');
+});
+
+Route::get('free-quote', function () {
+    return view('pages.free-quote');
+});
+
+Route::get('team', function () {
+    return view('pages.team');
+});
+
+Route::get('testimonial', function () {
+    return view('pages.testimonial');
+});
+
+Route::get('404', function () {
+    return view('pages.404');
+});
