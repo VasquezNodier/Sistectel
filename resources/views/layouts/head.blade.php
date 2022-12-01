@@ -21,7 +21,9 @@
     <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link rel="stylesheet" type="text/css" href="{{ url('css/bootstrap.min.css') }}">
+    {{-- <link rel="stylesheet" type="text/css" href="{{ url('css/bootstrap.min.css') }}"> --}}
 
     <!-- Template Stylesheet -->
-    <link rel="stylesheet" type="text/css" href="{{ url('css/app.css') }}">
+    {{-- <link rel="stylesheet" type="text/css" href="{{ url('css/app.css') }}"> --}}
+
+    @vite(['resources/css/app.css', 'resources/css/bootstrap.min.css', 'resources/js/app.js'])

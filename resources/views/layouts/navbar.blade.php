@@ -8,7 +8,7 @@
 
 
 <!-- Topbar Start -->
-<div class="container-fluid bg-dark px-5">
+{{-- <div class="container-fluid bg-dark px-5">
     <div class="row gx-4 d-none d-lg-flex">
         <div class="col-lg-6 text-start">
             <div class="h-100 d-inline-flex align-items-center py-3 me-4">
@@ -39,7 +39,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 <!-- Topbar End -->
 
 
@@ -54,7 +54,7 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto py-4 py-lg-0">
             <a href="{{ url('/') }}" class="nav-item nav-link active">Inicio</a>
-            <a href="{{ url('about') }}" class="nav-item nav-link">Acerca de</a>
+            <a href="{{ url('about') }}" class="nav-item nav-link">Nosotros</a>
             <a href="{{ url('services') }}" class="nav-item nav-link">Servicios</a>
             <a href="{{ url('projects') }}" class="nav-item nav-link">Proyectos</a>
             <div class="nav-item dropdown">

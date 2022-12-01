@@ -56,3 +56,11 @@ Route::get('testimonial', function () {
 Route::get('404', function () {
     return view('pages.404');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
