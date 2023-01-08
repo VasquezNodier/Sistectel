@@ -24,7 +24,7 @@
         <div class="container contact px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-6 contact-text py-5 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="p-lg-5 ps-lg-0">
+                    <div class="p-lg-5 p-lg-0">
                         <div class="section-title text-start">
                             <h1 class="display-5 mb-4">Contact Us</h1>
                         </div>

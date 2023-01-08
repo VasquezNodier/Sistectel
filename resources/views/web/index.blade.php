@@ -161,7 +161,7 @@
     <div class="container">
         <div class="text-center">
             <div class="bg-primary mb-3 mx-auto" style="width: 60px; height: 2px;"></div>
-            <h1 class="display-5 mb-5">Nuentros Servicios</h1>
+            <h1 class="display-5 mb-5">Nuestros Servicios</h1>
         </div>
         <div class="row g-0 service-row">
             <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
@@ -215,7 +215,7 @@
     <div class="container feature px-lg-0">
         <div class="row g-0 mx-lg-0">
             <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.5s">
-                <div class="p-lg-5 ps-lg-0">
+                <div class="p-lg-5 p-lg-0">
                     <div class="bg-primary mb-3" style="width: 60px; height: 2px;"></div>
                     <h1 class="display-5 mb-5">Porque Escogernos</h1>
                     <p class="mb-4 pb-2">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet</p>
@@ -413,7 +413,7 @@
                 </div>
             </div>
             <div class="col-lg-6 quote-text py-5 wow fadeIn" data-wow-delay="0.5s">
-                <div class="p-lg-5 pe-lg-0">
+                <div class="p-lg-5 p-lg-0">
                     <div class="bg-primary mb-3" style="width: 60px; height: 2px;"></div>
                     <h1 class="display-5 mb-5">Cotización Gratuita</h1>
                     <p class="mb-4 pb-2">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet</p>

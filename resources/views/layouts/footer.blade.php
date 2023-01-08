@@ -4,9 +4,9 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Ubicación</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Bucaramanga, COL</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+57 322 317 2827</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>sistectel.ingenieria@gmail.com</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i><small>Bucaramanga, COL</small></p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i><small>+57 322 317 2827</small></p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i><small>sistectel.ingenieria@gmail.com</small></p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-square btn-outline-secondary rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square btn-outline-secondary rounded-circle me-2" href=""><i class="fab fa-facebook-f"></i></a>
@@ -30,6 +30,7 @@
                     <a class="btn btn-link" href="{{ url('services') }}">Nuestros Servicios</a>
                     <a class="btn btn-link" href="{{ url('terms') }}">Terminos & Condiciones</a>
                     <a class="btn btn-link" href="{{ url('support') }}">Soporte</a>
+                    <a class="btn btn-link" href="{{ url('login') }}">login</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Noticias</h5>
@@ -53,7 +54,6 @@
                     &copy; <a class="border-bottom" href="#">Sistectel</a>, Todos los derechos reservados.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
-                    <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
                     <small>Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a></small>
                     <br>
                     <small>Distributed By <a class="border-bottom" href="https://themewagon.com/" >Themewagon</a></small>

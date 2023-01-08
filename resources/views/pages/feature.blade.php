@@ -24,7 +24,7 @@
         <div class="container feature px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="p-lg-5 ps-lg-0">
+                    <div class="p-lg-5 p-lg-0">
                         <div class="bg-primary mb-3" style="width: 60px; height: 2px;"></div>
                         <h1 class="display-5 mb-5">Why Choose Us</h1>
                         <p class="mb-4 pb-2">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet</p>

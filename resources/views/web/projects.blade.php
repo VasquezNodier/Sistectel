@@ -47,8 +47,12 @@
                             <p class="text-primary mb-2">Business Security</p>
                             <h5 class="lh-base mb-3">Smart CCTV Security Systems That Fits Your Business</h5>
                             <div class="d-flex justify-content-center">
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-1.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-1.jpg" data-lightbox="portfolio">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="">
+                                    <i class="fa fa-link"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -64,8 +68,12 @@
                             <p class="text-primary mb-2">Fire Detection</p>
                             <h5 class="lh-base mb-3">Smart CCTV Security Systems That Fits Your Business</h5>
                             <div class="d-flex justify-content-center">
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-2.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-2.jpg" data-lightbox="portfolio">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="">
+                                    <i class="fa fa-link"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -81,8 +89,12 @@
                             <p class="text-primary mb-2">Access Control</p>
                             <h5 class="lh-base mb-3">Smart CCTV Security Systems That Fits Your Business</h5>
                             <div class="d-flex justify-content-center">
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-3.jpg" data-lightbox="portfolio">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="">
+                                    <i class="fa fa-link"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -98,8 +110,12 @@
                             <p class="text-primary mb-2">Alarm Systems</p>
                             <h5 class="lh-base mb-3">Smart CCTV Security Systems That Fits Your Business</h5>
                             <div class="d-flex justify-content-center">
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-4.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-4.jpg" data-lightbox="portfolio">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="">
+                                    <i class="fa fa-link"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -115,8 +131,12 @@
                             <p class="text-primary mb-2">CCTV & Video</p>
                             <h5 class="lh-base mb-3">Smart CCTV Security Systems That Fits Your Business</h5>
                             <div class="d-flex justify-content-center">
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-5.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-5.jpg" data-lightbox="portfolio">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="">
+                                    <i class="fa fa-link"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -132,8 +152,12 @@
                             <p class="text-primary mb-2">Smart Home</p>
                             <h5 class="lh-base mb-3">Smart CCTV Security Systems That Fits Your Business</h5>
                             <div class="d-flex justify-content-center">
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-6.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-primary rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="images/portfolio-6.jpg" data-lightbox="portfolio">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                                <a class="btn btn-square btn-primary rounded-circle mx-1" href="">
+                                    <i class="fa fa-link"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
